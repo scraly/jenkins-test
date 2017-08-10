@@ -18,7 +18,7 @@ pipeline {
 
         stage('Deploy - Production') {
             steps {
-                sh './deploy_production.sh'
+                sh './bin/deploy_production.sh'
             }
         }
     }

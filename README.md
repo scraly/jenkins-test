@@ -16,3 +16,4 @@ The goal of this repo is to test jenkins and execute Pipeline with Jenkinsfile.
 
 * Jenkinsfile-v5: Stages as Deployment Environments
 
+* Jenkinsfile-v6: Stage with input (ask human interaction to continue)
